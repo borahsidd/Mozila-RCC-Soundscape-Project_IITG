@@ -1,2 +1,2 @@
-# Mozlila-RCC-Soundscape-Project_IITG
+# Mozila-RCC-Soundscape-Project_IITG
 Code
